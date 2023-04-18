@@ -73,7 +73,8 @@ main {
 
 }
 
-.editmode{
+.job-item > .editmode{
+  cursor: auto;
   color: green;
   background:  lightgreen;
 }
